@@ -1,11 +1,17 @@
-body { background-color: #DE73ff
+body { background-color: #DE73ff;
+      background-image: url("logo.png")
+      background-repeat: no-repeat;
+  background-attachment: fixed;
+      background-position: right      
 }
 
-h1 {font-size:48pt;
+h1 {font-size:30pt;
     color:#ffffff
 }
-p{font-size: 18pt}
+p{font-size: 16pt}
 
 li {
-  font-size:15pt
+  font-size:14pt;
+    padding: 20px;
+    list-style-type: "💜"
 }
