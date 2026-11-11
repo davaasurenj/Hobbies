@@ -13,5 +13,6 @@ p{font-size: 16pt}
 li {
   font-size:14pt;
     padding: 100px;
-    list-style-type: "💜"
+    list-style-type: "💜";
+      list-style-position: inside
 }
