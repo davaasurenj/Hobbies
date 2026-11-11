@@ -1,5 +1,6 @@
 body { background-color: #DE73ff;
       background-image: url("logo.png");
+      background-size: 300px;
       background-repeat: no-repeat;
   background-attachment: fixed;
       background-position: right      
@@ -15,5 +16,5 @@ li {
     padding-left: 100px;
     list-style-type: "💜";
       list-style-position: inside;
-      line-height: normal
+      line-height: 150%
 }
